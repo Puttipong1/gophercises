@@ -1,0 +1,8 @@
+- path: /urlshort
+  url: https://github.com/gophercises/urlshort
+- path: /urlshort-final
+  url: https://github.com/gophercises/urlshort/tree/solution
+- path: /net
+  url: https://pkg.go.dev/net
+- path: /yaml
+  url: https://pkg.go.dev/gopkg.in/yaml.v3

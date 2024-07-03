@@ -1,0 +1,14 @@
+[
+    {
+        "path": "/json",
+        "url": "https://pkg.go.dev/encoding/json"
+    },
+    {
+        "path": "/math",
+        "url": "https://pkg.go.dev/math"
+    },
+    {
+        "path": "/strings",
+        "url": "https://pkg.go.dev/strings"
+    }
+]
